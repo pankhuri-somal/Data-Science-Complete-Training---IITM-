@@ -1,1 +1,1 @@
-Data Science Training-IITM
+ Data Science Training IITM
